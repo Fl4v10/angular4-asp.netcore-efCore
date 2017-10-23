@@ -1,0 +1,42 @@
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.deps.json
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.AssemblyInfo.cs
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.deps.json
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.deps.json
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.AssemblyInfo.cs
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.deps.json
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.deps.json
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.deps.json
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Domain\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Domain\obj\Debug\netcoreapp1.1\restApp.Domain.pdb

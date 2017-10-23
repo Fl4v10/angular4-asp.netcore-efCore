@@ -1,0 +1,54 @@
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.deps.json
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.AssemblyInfo.cs
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\Convidado\Documents\Visual Studio 2017\Projects\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.deps.json
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.deps.json
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.AssemblyInfo.cs
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\Convidado\Desktop\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.deps.json
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.deps.json
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.deps.json
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Data.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\bin\Debug\netcoreapp1.1\restApp.Domain.pdb
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.AssemblyInfo.cs
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.dll
+C:\Users\flavio.pinto\Desktop\All Docs\Codes\Project\restApp\restApp.Data\obj\Debug\netcoreapp1.1\restApp.Data.pdb

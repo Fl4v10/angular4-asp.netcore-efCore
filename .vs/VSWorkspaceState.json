@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\restApp",
+    "\\restApp.Negocio",
+    "\\restApp.WebApi",
+    "\\restApp.WebApi\\Controllers",
+    "\\restApp\\src",
+    "\\restApp\\src\\app",
+    "\\restApp\\src\\app\\prato",
+    "\\restApp\\src\\app\\restaurante"
+  ],
+  "SelectedNode": "\\restApp.Negocio",
+  "PreviewInSolutionExplorer": false
+}

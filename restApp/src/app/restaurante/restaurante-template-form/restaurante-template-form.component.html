@@ -1,0 +1,15 @@
+﻿<form #restaurante="ngForm" (ngSubmit)="onSubmit(restaurante)">
+  <div class="form-group">
+    <label for="nome">Nome do Restaurante</label>
+    <input type="text" class="form-control" name="nome"
+           id="nome" placeholder="Nome" ngModel required>
+    <div class="row">
+    </div>
+    <br />
+    <div class="span">
+      <!--<a class="btn btn-danger" (click)="limparModel()"><span class="glyphicon glyphicon-floppy-remove"></span> Cancelar</a>-->
+      <button type="submit" class="btn btn-success"><span class="glyphicon glyphicon-floppy-save"></span> Salvar</button>
+    </div>
+  </div>
+</form>
+

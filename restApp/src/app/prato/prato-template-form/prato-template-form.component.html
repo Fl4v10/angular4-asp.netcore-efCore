@@ -1,0 +1,23 @@
+﻿<form #prato="ngForm" (ngSubmit)="onSubmit(prato)">
+  <div class="form-group">
+    <label class="control-label" for="restaurante">Restaurante</label>
+    <select name="restauranteId" id="restauranteId" class="form-control" ngModel>
+      <option value="">Restaurantes...</option>
+      <option *ngFor="let rest of restaurantes" value="{{rest.id}}">{{rest.nome}}</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label class="control-label" for="nome">Prato</label>
+    <input type="text" class="form-control" name="nome" id="nome" ngModel>
+  </div>
+  <div class="form-group row">
+    <div class="col-xs-4">
+      <label for="valor">Preço(R$)</label>
+      <input class="form-control" name="valor" id="valor" type="text" ngModel>
+    </div>
+  </div>
+  <div class="form-group">
+    <button class="btn btn-danger"><span class="glyphicon glyphicon-floppy-remove"></span> Cancelar</button>
+    <button type="submit" class="btn btn-success"><span class="glyphicon glyphicon-floppy-save"></span> Salvar</button>
+  </div>
+</form>

@@ -1,0 +1,29 @@
+﻿<a routerLink="/prato/novo" class="btn btn-success btn-sm">Cadastrar novo Prato</a>
+<br /><br />
+<ul class="list-group panel-shadow">
+  <table class="table table-bordered">
+    <thead>
+      <tr >
+        <th class="col-md-1"></th>
+        <th class="col-md-1"></th>
+        <th class="col-md-4">Prato</th>
+        <th class="col-md-4">Preço</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let prato of pratos">
+      <tr>
+        <td>
+          <button type="button" class="btn btn-danger btn-xs" (click)="deletePrato(prato.id)">
+            <i class="glyphicon glyphicon-trash"></i>
+          </button>
+        </td>
+        <td>
+          <a type="button" class="btn btn-primary btn-xs"
+             [routerLink]="['/prato', prato.id]"><i class="glyphicon glyphicon-pencil"></i></a>
+        </td>
+        <td>{{prato.nome}}</td>
+        <td>{{prato.valor}}</td>
+      </tr>
+    </tbody>
+  </table>
+</ul>

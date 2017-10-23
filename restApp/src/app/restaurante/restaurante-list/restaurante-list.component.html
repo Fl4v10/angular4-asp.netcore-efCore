@@ -1,0 +1,40 @@
+﻿<form #restaurante="ngForm" (ngSubmit)="onSubmit(restaurante)">
+  <div class="form-group">
+    <label for="nome">Nome:</label>
+    <input type="text" class="form-control" name="nome"
+           id="nome" placeholder="Nome" ngModel required>
+    <div class="row">
+    </div>
+    <br />
+    <div class="span">
+      <button type="button" class="btn btn-primary btn-xs" (click)="pesquisarRestaurante(restaurante)"><span class="glyphicon glyphicon-search"></span>Pesquisar
+      </button>
+      <a routerLink="/restaurante/novo" class="btn btn-success btn-sm">Cadastrar novo Restaurante</a>
+    </div>
+  </div>
+</form>
+
+<ul class="list-group panel-shadow">
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th class="col-md-1"></th>
+        <th class="col-md-1"></th>
+        <th class="col-md-10">Restaurantes</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let rest of restaurantes | restauranteFilter : filterArg">
+      <tr>
+        <td>
+          <button type="button" class="btn btn-danger btn-xs" (click)="deleteRestaurante(rest.id)">
+            <i class="glyphicon glyphicon-trash"></i>
+          </button>
+        </td>
+        <td>
+          <a type="button" class="btn btn-primary btn-xs"
+             [routerLink]="['/restaurante', rest.id]"><i class="glyphicon glyphicon-pencil"></i></a></td>
+        <td>{{rest.nome}}</td>
+      </tr>
+    </tbody>
+  </table>
+</ul>
